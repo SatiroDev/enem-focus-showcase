@@ -1,5 +1,11 @@
 # 🎯 ENEM Focus
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
 O **ENEM Focus** é uma plataforma web desenvolvida para auxiliar estudantes na preparação para o ENEM, oferecendo uma experiência de estudos organizada, personalizada e focada na evolução do aluno.
 
 ## ✨ Funcionalidades
@@ -39,11 +45,39 @@ Acesse a plataforma:
 
 > Caso a aplicação esteja temporariamente em manutenção ou recebendo atualizações, algumas funcionalidades podem ficar indisponíveis.
 
+## 📸 Capturas de Tela
+
+### Login
+<img src="screenshots/login-tela.png" width="800"/>
+
+### Cadastro
+<img src="screenshots/cadastro-tela.png" width="800"/>
+
+### Matérias
+<img src="screenshots/materias-tela.png" width="800"/>
+
+### Matéria
+<img src="screenshots/materia-tela.png" width="800"/>
+
+
+## 🗺️ Roadmap
+
+- [x] Sistema de autenticação
+- [x] Dashboard de estudos
+- [x] Controle de progresso
+- [x] Banco de dados PostgreSQL
+- [x] Deploy na Vercel
+- [ ] Login com Google
+- [ ] Recuperação de senha
+- [ ] Simulados personalizados
+- [ ] Flashcards
+- [ ] Modo escuro
+
 ## 🔒 Código-fonte
 
-O código deste projeto é privado.
+Este repositório tem como objetivo apresentar o projeto e suas funcionalidades.
 
-Este repositório foi criado apenas para apresentar o projeto, suas funcionalidades e tecnologias utilizadas.
+O código-fonte é mantido em um repositório privado devido ao desenvolvimento contínuo e aos planos futuros para a plataforma.
 
 ## 👨‍💻 Desenvolvedor
 
